@@ -9,7 +9,7 @@ Wanted to create list helpfull for me and everyone.
 - [Contributing](#Contributing)
   
 ## Hidden Gems(Most Useful but Often Overlooked)
-
+The shortcuts which are really helpfull in everyday life but not mostly known.
 ###  When Things Freeze (Emergency Shortcuts)
 
 These shortcuts are life-savers when your PC suddenly freezes, hangs, or becomes unresponsive. Keep them in mind — they can help you avoid a forced restart!
@@ -56,6 +56,7 @@ These shortcuts are life-savers when your PC suddenly freezes, hangs, or becomes
 
 ## Essential shortcuts and most used by everyone.
 
+Shortcuts used by everyone
 ### Clipboard Actions
 
 | Shortcut | Action | Notes | Supported Versions |
@@ -89,6 +90,8 @@ These shortcuts are life-savers when your PC suddenly freezes, hangs, or becomes
 | ⊞ + S              | Open Search                    |                                | Windows 10 and later          |
 
 ## Window and Desktop Management
+
+Window Management shortcuts
 
 | Shortcut             | Action                           | Notes                          | Supported Versions            |
 |----------------------|---------------------------------|--------------------------------|------------------------------|
