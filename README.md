@@ -3,9 +3,9 @@ List of most-used and most-forgotten Windows keyboard shortcuts to save time,to 
 Wanted to create list helpfull for me and everyone.
 
 # Quick Access
-- [Hidden Gems(Most Useful but Not Known)](#hidden-gems-most-useful-but-often-overlooked) - [When Things Freeze (Emergency Shortcuts)](#When-Things-Freeze-Emergency-Shortcuts) |[Accessibility](#Accessibility.) | [Clipboard & Paste Magic.](#Clipboard-&-Paste-Magic.) | [Quick Screen & Desktop Shorts.](Quick-Screen-&-Desktop-Shorts.)
+- [Hidden Gems(Most Useful but Not Known)](#hidden-gems-most-useful-but-often-overlooked) - [When Things Freeze (Emergency Shortcuts)](#When-Things-Freeze-Emergency-Shortcuts) |[Accessibility](#Accessibility) | [Clipboard & Paste Magic.](#Clipboard-&-Paste-Magic) | [Quick Screen & Desktop Shorts.](Quick-Screen-&-Desktop-Shorts.)
 - [Essential shortcuts and most used by everyone](#Essential-shortcuts-and-most-used-by-everyone) - [Clipboard Actions](#Clipboard-Actions) | [Undo/Redo Actions](#Undo/Redo-Actions) | [Window Switching](#Window-Switching) | [File and Settings](#File-and-Settings)
-- [Window & Desktop Management](#Window-Desktop-Management)
+- [Window and Desktop Management](#Window-and-Desktop-Management)
 ## Hidden Gems(Most Useful but Often Overlooked)
 
 ###  When Things Freeze (Emergency Shortcuts)
@@ -86,7 +86,7 @@ These shortcuts are life-savers when your PC suddenly freezes, hangs, or becomes
 | ⊞ + I              | Open Settings                   |                                | Windows 10 and later          |
 | ⊞ + S              | Open Search                    |                                | Windows 10 and later          |
 
-## Window & Desktop Management
+## Window and Desktop Management
 
 | Shortcut             | Action                           | Notes                          | Supported Versions            |
 |----------------------|---------------------------------|--------------------------------|------------------------------|
