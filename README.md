@@ -2,7 +2,28 @@
 List of most-used and most-forgotten Windows keyboard shortcuts to save time,to make daily life easier.
 Wanted to create list helpfull for me and everyone.
 
-## Hidden Gems(Most Useful but Often Overlooked
+# Quick Access
+- [Hidden Gems(Most Useful but Not Known)](#hidden-gems-most-useful-but-often-overlooked)
+- [Essential shortcuts and most used by everyone](#Essential-shortcuts-and-most-used-by-everyone)
+## Hidden Gems(Most Useful but Often Overlooked)
+
+###  When Things Freeze (Emergency Shortcuts)
+
+These shortcuts are life-savers when your PC suddenly freezes, hangs, or becomes unresponsive. Keep them in mind — they can help you avoid a forced restart!
+
+| 🧩 Situation                      |  Shortcut                    |  Action                             |  Notes                                  |
+|----------------------------------|-------------------------------|----------------------------------------|-------------------------------------------|
+| System is frozen or unresponsive | Ctrl + Alt + Delete        | Open security screen                   | Access Task Manager, sign out, restart    |
+| App is stuck / not responding   | Alt + F4(Be carefull closes the window not saved work may be lost)                   | Close current app                      | Forces the window to close                |
+| Black screen / no display       | ⊞ + Ctrl + Shift + B     | Reset graphics driver                  | Screen may flicker & come back            |
+| Need Task Manager quickly       | Ctrl + Shift + Esc         | Open Task Manager directly             | Skips Ctrl+Alt+Delete menu                |
+
+### Accessibility.
+| Shortcut             | Action                           | Notes                          | Supported Versions            |
+|----------------------|---------------------------------|--------------------------------|------------------------------|
+| ⊞ + . (period)     | Open emoji picker               |                                | Windows 10 and later          |
+| ⊞ + H   | Opens Voice Search               |                                | Windows 10 and later         |
+| ⊞ + C   | Opens Co pilot              |                                | Windows 11-Copilot(If disabled open windows search) , Windows 10-Opens Cortana         |
 
 ### Clipboard & Paste Magic.
 
@@ -11,20 +32,15 @@ Wanted to create list helpfull for me and everyone.
 | ⊞ + V              | Clipboard history               | Needs enabling in settings      | Windows 10 (1809) and later   |
 | Ctrl + Shift + V     | Paste without formatting        | Works in some apps              | All Windows versions          |
 
-### Accessibility.
-| Shortcut             | Action                           | Notes                          | Supported Versions            |
-|----------------------|---------------------------------|--------------------------------|------------------------------|
-| ⊞ + . (period)     | Open emoji picker               |                                | Windows 10 and later          |
-| Ctrl + Shift + Esc   | Open Task Manager               |                                | All Windows versions          |
-
 ### Browser Shortcuts(Edge/Chrome).
 | Shortcut             | Action                           | Notes                          | Supported Versions            |
 |----------------------|---------------------------------|--------------------------------|------------------------------|
 | Ctrl + T     | Open New Tab  |                                | All Windows Versions.     |
-| Ctrl+W              | Close current Tab                |     | All Windows Versions.           |
-| Ctrl+Shift+T      | Reopen last closed Tab.                | Super useful if you close by mistake         | All Windows Versions.            |
-| Ctrl+D              | Bookmark current Tab                |     | All Windows Versions.           |
-| Ctrl+R or F5              | Refresh Page.               |     | All Windows Versions.           |
+| Ctrl + W              | Close current Tab                |     | All Windows Versions.           |
+| Ctrl + Shift + T      | Reopen last closed Tab.                | Super useful if you close by mistake         | All Windows Versions.            |
+| Ctrl + D              | Bookmark current Tab                |     | All Windows Versions.           |
+| Ctrl + R or F5              | Refresh Page.               |     | All Windows Versions.           |
+| Ctrl + F             | Find in the Current page.             |     | All Windows Versions.           |
 
 
 ### Quick Screen & Desktop Shorts.
@@ -63,12 +79,13 @@ Wanted to create list helpfull for me and everyone.
 ### File and Settings
 
 | Shortcut | Action | Notes | Supported Versions |
+|----------------------|---------------------------------|--------------------------------|------------------------------|
 | ⊞ + E              | Open File Explorer              |                                | All Windows versions          |
 | ⊞ + R              | Open Run dialog                 |                                | All Windows versions          |
 | ⊞ + I              | Open Settings                   |                                | Windows 10 and later          |
 | ⊞ + S              | Open Search                    |                                | Windows 10 and later          |
 
-## Window && Desktop Management
+## Window & Desktop Management
 
 | Shortcut             | Action                           | Notes                          | Supported Versions            |
 |----------------------|---------------------------------|--------------------------------|------------------------------|
