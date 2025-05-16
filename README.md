@@ -3,9 +3,11 @@ List of most-used and most-forgotten Windows keyboard shortcuts to save time,to 
 Wanted to create list helpfull for me and everyone.
 
 # Quick Access
-- [Hidden Gems(Most Useful but Not Known)](#hidden-gems-most-useful-but-often-overlooked) - [When Things Freeze (Emergency Shortcuts)](#When-Things-Freeze-Emergency-Shortcuts) |[Accessibility](#Accessibility) | [Clipboard & Paste Magic.](#Clipboard--Paste-Magic) | [Quick Screen & Desktop Shorts.](Quick-Screen--Desktop-Shorts)
+- [Hidden Gems(Most Useful but Not Known)](#hidden-gems-most-useful-but-often-overlooked) - [When Things Freeze (Emergency Shortcuts)](#When-Things-Freeze-Emergency-Shortcuts) |[Accessibility](#Accessibility) | [Clipboard & Paste Magic.](#Clipboard--Paste-Magic) | [Browser Shortcuts(Edge/Chrome)](#Browser-Shortcuts-Edge-Chrome-)|[Quick Screen & Desktop Shorts.](#Quick-Screen--Desktop-Shorts)
 - [Essential shortcuts and most used by everyone](#Essential-shortcuts-and-most-used-by-everyone) - [Clipboard Actions](#Clipboard-Actions) | [Undo/Redo Actions](#Undo/Redo-Actions) | [Window Switching](#Window-Switching) | [File and Settings](#File-and-Settings)
 - [Window and Desktop Management](#Window-and-Desktop-Management)
+- [Contributing](#Contributing)
+  
 ## Hidden Gems(Most Useful but Often Overlooked)
 
 ###  When Things Freeze (Emergency Shortcuts)
@@ -96,3 +98,21 @@ These shortcuts are life-savers when your PC suddenly freezes, hangs, or becomes
 | ⊞ + Ctrl + D       | Create new virtual desktop      |                                | Windows 10 and later          |
 | ⊞ + Ctrl + Left/Right | Switch virtual desktops        |                                | Windows 10 and later          |
 | Alt + F4             | Close current window            |                                | All Windows versions          |
+
+Missing What you need, you can always check out Microsoft's official documentation:
+
+- 🔗 [Windows Keyboard Shortcuts - Microsoft Support](https://learn.microsoft.com/en-us/windows/win32/inputdev/keyboard-shortcuts)
+
+## 🤝 Contributing
+
+Found a shortcut missing? Think something can be improved?
+
+You're more than welcome to contribute! Here's how:
+
+1. *Fork* this repository  
+2. *Add or edit* the shortcuts  
+3. *Create a Pull Request* with a short description of your change
+
+*Helping everyone discover the most useful Windows shortcuts.*
+
+Let’s make this the go-to shortcut list for everyone!
